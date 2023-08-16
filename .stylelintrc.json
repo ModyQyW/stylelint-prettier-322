@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "stylelint-config-html",
+    "stylelint-config-recommended",
+    "stylelint-config-recommended-vue",
+    "stylelint-prettier/recommended"
+  ],
+  "rules": {
+    "at-rule-no-unknown": null
+  }
+}
