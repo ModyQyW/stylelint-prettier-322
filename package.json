@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "stylelint": "stylelint index.vue"
+    "stylelint": "stylelint index.vue",
+    "prettier": "prettier index.vue"
   },
   "keywords": [],
   "author": "",
